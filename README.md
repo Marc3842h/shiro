@@ -10,7 +10,7 @@ It outperforms Ripple, Gigamons and even Bancho itself.
 In terms of implementation accuracy, Shiro's implementation is
 more accurate than both of Ripple and Gigamons.
 
-Unlike other implementations, Shiro does not seperate
+Unlike other implementations, Shiro does not separate
 Bancho and the Score Submission server.
 
 ## Features
